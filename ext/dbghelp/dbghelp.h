@@ -3904,10 +3904,6 @@ RangeMapWrite(
 
 #include <poppack.h>
 
-
-#include <minidumpapiset.h>
-
-
 #endif /* WINAPI_FAMILY_PARTITION(WINAPI_PARTITION_DESKTOP | WINAPI_PARTITION_PKG_WER) */
 #pragma endregion
 
