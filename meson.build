@@ -638,6 +638,7 @@ gum_incdirs = [
   include_directories('libs'),
   include_directories('libs/gum/heap'),
   include_directories('libs/gum/prof'),
+  include_directories('ext/dbghelp')
 ]
 
 if host_os_family == 'darwin'
